@@ -1,0 +1,8 @@
+{
+  "enterprise_id": "1",
+  "sender": "/admin/id:1701395606048",
+  "account": "yhsadmin",
+  "name": "연합시스템",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Inloc2FkbWluIiwiZW50ZXJwcmlzZSI6IllIUyIsImVudGVycHJpc2VfaWQiOjEsImlhdCI6MTcwMTMyMTQ3NiwiZXhwIjo0ODU3MDgxNDc2LCJpc3MiOiJ5aHNiZWFyaW5nLmNvbSIsInN1YiI6InVzZXJJbmZvIn0.iWH-WEcggfWQJSXCuNhVLKVdpCVqJgV-7XlZyxM8DN4",
+  "enterprise": "YHS"
+}
